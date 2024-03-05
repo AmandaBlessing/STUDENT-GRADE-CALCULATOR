@@ -40,6 +40,8 @@ public class Calculator {
             grade = 'F';
         }
 
+        System.out.println("Total Marks: " + totalMarks);
+
         System.out.println("Average percentage: " + averagePercentage);
         System.out.println("Grade: " + grade);
     }
